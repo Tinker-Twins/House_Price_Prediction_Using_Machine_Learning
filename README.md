@@ -1,2 +1,2 @@
-# House_Price_Prediction_Using_Machine_Learning
-This project uses supervised machine learning to predict the price of a property based upon its location and area. The database contains the data of around 100 different hypothetical houses, their location, their area and their price.  The user has to enter the location and area of the house as the input and the program predicts the price of that house using machine learning and displays it as output.
+# House Price Prediction Using Machine Learning
+This project uses supervised machine learning to predict the price of a property based upon its size. The training data set contains the data of around 100 different hypothetical houses, their area and their price.  The user has to enter the area of the house as the input and the program predicts the price of that house using machine learning and displays it as output.
